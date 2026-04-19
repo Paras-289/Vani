@@ -10,16 +10,16 @@ VANI helps users upload Excel files and instantly generate insights through an i
 
 ## Live Features
 
-✅ Secure Login Authentication\n
-✅ Multi-file Excel Upload (.xlsx / .xls)\n
-✅ AI Chatbot for Data Queries\n
-✅ Smart Prompt Suggestions\n
-✅ Dynamic Charts (Line, Bar, Histogram, Scatter, Pie, Area)\n
-✅ Sidebar Filters / Slicers\n
-✅ Live KPI Metrics\n
-✅ Browser Text-to-Speech Output\n
-✅ Download Filtered CSV Reports\n
-✅ Premium Responsive UI\n
+✅ Secure Login Authentication
+✅ Multi-file Excel Upload (.xlsx / .xls)
+✅ AI Chatbot for Data Queries
+✅ Smart Prompt Suggestions
+✅ Dynamic Charts (Line, Bar, Histogram, Scatter, Pie, Area)
+✅ Sidebar Filters / Slicers
+✅ Live KPI Metrics
+✅ Browser Text-to-Speech Output
+✅ Download Filtered CSV Reports
+✅ Premium Responsive UI
 
 ---
 
